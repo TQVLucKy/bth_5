@@ -5,7 +5,7 @@
 }
 body{
 
-    background-image: url(/images/bg-top.jpg),url(/images/bg-bottom.jpg);
+    background-image: url(images/bg-top.jpg),url(images/bg-bottom.jpg);
     background-repeat: no-repeat,no-repeat;
     background-position: top center, bottom center;
     background-color: #f2f2f2;
@@ -113,7 +113,7 @@ a {
     border-bottom: 1px solid #112141;
 }
 .tinthongbao{
-    background-image: url(/images/news-header-bg.png);
+    background-image: url(images/news-header-bg.png);
     height: 64px;
     width: 742px;
 }
